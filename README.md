@@ -11,6 +11,7 @@ if we have additional teams, or split off. we should create different repos.
 git administration by commitee vote
 
 # Kraggle it up!
+```
                        ooo
                     $$$$$$$oo o  o
                    $$$$$$$$$"oo$$o""oooo   ooo$ooo
@@ -55,3 +56,4 @@ git administration by commitee vote
             " """$$ $o o o$o  $                  $$$$$$$$$oo$$""$oooo
                    "       ""$$oooooo    o ooo$o""" "  " "     "" "  "
                                    " """""""
+```
