@@ -19,7 +19,7 @@ train <- data.frame(file_path = pathlist,
                     R_sd = NA,
                     G_sd = NA,
                     B_sd = NA,
-                    IR_apl = NA,
+                    IR_sd = NA,
                     stringsAsFactors = FALSE) %>%
   merge(tags)
 
